@@ -1,5 +1,4 @@
 name,category
-spotify,music
 mcdonald,restaurants
 atrium campus gdi,restaurants
 kanda,restaurants
@@ -36,9 +35,28 @@ BAR GEORGE,restaurants
 FIREGRILL,restaurants
 ASSOMMOIR VIEUX MONTRE,restaurants
 DAVID'S TEA,restaurants
+FOODRELAY,restaurants
+ALLO MON COCO,restaurants
+TOWNE HALL,restaurants
+UNIVERSEL DEJEUNER,restaurants
+BURRITO BORRACHO,restaurants
+MISTER STEER,restaurants
+TANDORI EATON,restaurants
+NO 900,restaurants
+LE SAINT SAU PUB,restaurants
+BENTO,restaurants
+CARL'S JR,restaurants
+IT'SUGAR FISHERMANS,restaurants
+NORTH INDIA,restaurants
+ROCCO S CAFE,restaurants
+THE MELT,restaurants
+subway,restaurants
+NAPA FARMS MARKET,restaurants
+
 petrocan,gas
 couche-tard,gas
 ULTRAMAR,gas
+
 maxi,groceries
 marche toppetta,groceries
 SANS GLUTEN,groceries
@@ -47,42 +65,77 @@ WAL-MART,groceries
 costco,groceries
 provigo,groceries
 EPICURE,groceries
+
 la baie d'hudson,clothing
 VANS,clothing
 DYNAMITE,clothing
 JACK JONES,clothing
+
 home depot,home
 reno depot,home
 WINNERSHOMESENSE,home
 STOKES,home
 IKEA,home
+HUSHBLANKETS,home
+
 uber,transportation
 stm,transportation
 gare dorval,transportation
 GARE LUCIEN LALLIER,transportation
+FORD GO BIKE,transportation
+
 bell canada,tv/internet
+
 koodo,phone
+
 econofitness,gym
+
 saq,alcohol
 lab comptoir a cocktail,alcohol
 mclean's pub,alcohol
 MICROBRASSERIE,alcohol
 MCKIBBINS,alcohol
 BAR LOIC,alcohol
+
 PAYMENT - THANK YOU,payment
+
 CENTRE DENTAIRE,dentist
+
 CLEARLY CONTACTS,eyes
+
 udemy,education
+
 SPORTS EXPERTS,sports
 SPORTIUM,sports
+
+VAC AC,vacation
 CARNIVAL CRUISE,vacation
+CARNIVAL MAGICSAIL&SGN,vacation
+MANOIR SAINT SAUVEUR,vacation
+
 STATIONNEMENT,parking
 PRECISE PARK,parking
+
 GODADDY,cloud
 NETLIFY,cloud
 DIGITAL OCEAN,cloud
 GITKRAKEN,cloud
+Amazon web services,cloud
+
 ESPACENOMAD,spa
+LE SPA DU MANOIR,spa
+
 FAMOUS PLAYER,entertainment
 PLACE DES ARTS,entertainment
+INDIGO,entertainment
 TWITCHTV,entertainment
+GOOGLE*MLB,entertainment
+Microsoft*Xbox,entertainment
+Tinder,entertainment
+AMZN Mktp,entertainment
+DIGITALGURU,entertainment
+Amazon Downloads,entertainment
+
+SUBARU DES SOURCES,car
+
+spotify,music
